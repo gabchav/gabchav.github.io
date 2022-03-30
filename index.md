@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Bienvenido
 
-You can use the [editor on GitHub](https://github.com/gabchav/gabchav.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Acá encontrarás mis ejercicios realizados. Puedes ver el código directamente de [mi GitHub](https://github.com/gabchav) o el preview desde acá:
+
+1. [Mockup](https://gabchav.github.io/mockup/)
+2. [Recetario](https://gabchav.github.io/recetario/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
